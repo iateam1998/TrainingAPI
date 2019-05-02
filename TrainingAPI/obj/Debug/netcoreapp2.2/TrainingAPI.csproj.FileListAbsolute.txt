@@ -1,0 +1,17 @@
+E:\Wisky\Project\TrainingAPI\TrainingAPI\bin\Debug\netcoreapp2.2\TrainingAPI.deps.json
+E:\Wisky\Project\TrainingAPI\TrainingAPI\bin\Debug\netcoreapp2.2\TrainingAPI.runtimeconfig.json
+E:\Wisky\Project\TrainingAPI\TrainingAPI\bin\Debug\netcoreapp2.2\TrainingAPI.runtimeconfig.dev.json
+E:\Wisky\Project\TrainingAPI\TrainingAPI\bin\Debug\netcoreapp2.2\TrainingAPI.dll
+E:\Wisky\Project\TrainingAPI\TrainingAPI\bin\Debug\netcoreapp2.2\TrainingAPI.pdb
+E:\Wisky\Project\TrainingAPI\TrainingAPI\obj\Debug\netcoreapp2.2\TrainingAPI.csprojAssemblyReference.cache
+E:\Wisky\Project\TrainingAPI\TrainingAPI\obj\Debug\netcoreapp2.2\TrainingAPI.csproj.CoreCompileInputs.cache
+E:\Wisky\Project\TrainingAPI\TrainingAPI\obj\Debug\netcoreapp2.2\TrainingAPI.RazorAssemblyInfo.cache
+E:\Wisky\Project\TrainingAPI\TrainingAPI\obj\Debug\netcoreapp2.2\TrainingAPI.RazorAssemblyInfo.cs
+E:\Wisky\Project\TrainingAPI\TrainingAPI\obj\Debug\netcoreapp2.2\TrainingAPI.AssemblyInfoInputs.cache
+E:\Wisky\Project\TrainingAPI\TrainingAPI\obj\Debug\netcoreapp2.2\TrainingAPI.AssemblyInfo.cs
+E:\Wisky\Project\TrainingAPI\TrainingAPI\obj\Debug\netcoreapp2.2\TrainingAPI.RazorTargetAssemblyInfo.cache
+E:\Wisky\Project\TrainingAPI\TrainingAPI\obj\Debug\netcoreapp2.2\TrainingAPI.dll
+E:\Wisky\Project\TrainingAPI\TrainingAPI\obj\Debug\netcoreapp2.2\TrainingAPI.pdb
+E:\Wisky\Project\TrainingAPI\TrainingAPI\bin\Debug\netcoreapp2.2\DataService.dll
+E:\Wisky\Project\TrainingAPI\TrainingAPI\bin\Debug\netcoreapp2.2\DataService.pdb
+E:\Wisky\Project\TrainingAPI\TrainingAPI\obj\Debug\netcoreapp2.2\TrainingAPI.csproj.CopyComplete
