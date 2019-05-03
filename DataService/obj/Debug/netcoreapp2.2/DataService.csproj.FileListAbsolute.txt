@@ -107,3 +107,14 @@ E:\Wisky\Project\TrainingAPI\DataService\bin\Debug\netcoreapp2.2\DataService.run
 E:\Wisky\Project\TrainingAPI\DataService\bin\Debug\netcoreapp2.2\DataService.dll
 E:\Wisky\Project\TrainingAPI\DataService\bin\Debug\netcoreapp2.2\DataService.pdb
 E:\Wisky\Project\TrainingAPI\DataService\obj\Debug\netcoreapp2.2\DataService.csprojAssemblyReference.cache
+E:\WISKY\SourceTree\TrainingAPI\DataService\bin\Debug\netcoreapp2.2\DataService.deps.json
+E:\WISKY\SourceTree\TrainingAPI\DataService\bin\Debug\netcoreapp2.2\DataService.runtimeconfig.json
+E:\WISKY\SourceTree\TrainingAPI\DataService\bin\Debug\netcoreapp2.2\DataService.runtimeconfig.dev.json
+E:\WISKY\SourceTree\TrainingAPI\DataService\bin\Debug\netcoreapp2.2\DataService.dll
+E:\WISKY\SourceTree\TrainingAPI\DataService\bin\Debug\netcoreapp2.2\DataService.pdb
+E:\WISKY\SourceTree\TrainingAPI\DataService\obj\Debug\netcoreapp2.2\DataService.csprojAssemblyReference.cache
+E:\WISKY\SourceTree\TrainingAPI\DataService\obj\Debug\netcoreapp2.2\DataService.csproj.CoreCompileInputs.cache
+E:\WISKY\SourceTree\TrainingAPI\DataService\obj\Debug\netcoreapp2.2\DataService.AssemblyInfoInputs.cache
+E:\WISKY\SourceTree\TrainingAPI\DataService\obj\Debug\netcoreapp2.2\DataService.AssemblyInfo.cs
+E:\WISKY\SourceTree\TrainingAPI\DataService\obj\Debug\netcoreapp2.2\DataService.dll
+E:\WISKY\SourceTree\TrainingAPI\DataService\obj\Debug\netcoreapp2.2\DataService.pdb

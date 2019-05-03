@@ -11,6 +11,6 @@ namespace DataService.Model.ViewModel
         public string ClassName { get; set; }
 
         public virtual ICollection<SinhVienViewModel> SinhVien { get; set; }
-        public virtual ICollection<TeacherClasses> TeacherClasses { get; set; }
+        public virtual ICollection<TeacherClassesViewModel> TeacherClasses { get; set; }
     }
 }

@@ -15,6 +15,6 @@ namespace DataService.Model.ViewModel
         public string Note { get; set; }
 
         public virtual ClassesViewModel Class { get; set; }
-        public virtual Major Major { get; set; }
+        public virtual MajorViewModel Major { get; set; }
     }
 }

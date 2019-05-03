@@ -23,6 +23,11 @@ namespace DataService
             services.AddScoped(typeof(IUnitOfWork), typeof(UnitOfWork));
             #endregion
             services.AddScoped(typeof(ISinhVienService), typeof(SinhVienService));
+            services.AddScoped(typeof(IClassesService1), typeof(ClassesService1));
+            services.AddScoped(typeof(IMajorService), typeof(MajorService));
+            services.AddScoped(typeof(ISubjectService), typeof(SubjectService));
+            services.AddScoped(typeof(ITeacherService), typeof(TeacherService));
+
             #region Mapper Config
             var mappingConfig = new MapperConfiguration(mc =>
             {

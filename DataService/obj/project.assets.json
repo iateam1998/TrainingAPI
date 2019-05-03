@@ -2047,7 +2047,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Features/2.2.0": {
-      "sha512": "ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "sha512": "0GNO7G290ULLrFcL7Yig7EYNpWF0ZisATpoPGszArH7wtuDDNt97o3vr4CANPzxAcJuXlhIPKuAhk+GPKm6AHg==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.features/2.2.0",
       "files": [
@@ -5712,23 +5712,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luand\\.nuget\\packages\\": {},
+    "C:\\Users\\vieta\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Wisky\\Project\\TrainingAPI\\DataService\\DataService.csproj",
+      "projectUniqueName": "E:\\WISKY\\SourceTree\\TrainingAPI\\DataService\\DataService.csproj",
       "projectName": "DataService",
-      "projectPath": "E:\\Wisky\\Project\\TrainingAPI\\DataService\\DataService.csproj",
-      "packagesPath": "C:\\Users\\luand\\.nuget\\packages\\",
-      "outputPath": "E:\\Wisky\\Project\\TrainingAPI\\DataService\\obj\\",
+      "projectPath": "E:\\WISKY\\SourceTree\\TrainingAPI\\DataService\\DataService.csproj",
+      "packagesPath": "C:\\Users\\vieta\\.nuget\\packages\\",
+      "outputPath": "E:\\WISKY\\SourceTree\\TrainingAPI\\DataService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\luand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vieta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

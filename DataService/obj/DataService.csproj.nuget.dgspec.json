@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Wisky\\CloneProject\\Reso.Infrastructure.Monitor.UniLog.API\\DataService\\DataService.csproj": {}
+    "E:\\WISKY\\SourceTree\\TrainingAPI\\DataService\\DataService.csproj": {}
   },
   "projects": {
-    "D:\\Wisky\\CloneProject\\Reso.Infrastructure.Monitor.UniLog.API\\DataService\\DataService.csproj": {
+    "E:\\WISKY\\SourceTree\\TrainingAPI\\DataService\\DataService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wisky\\CloneProject\\Reso.Infrastructure.Monitor.UniLog.API\\DataService\\DataService.csproj",
+        "projectUniqueName": "E:\\WISKY\\SourceTree\\TrainingAPI\\DataService\\DataService.csproj",
         "projectName": "DataService",
-        "projectPath": "D:\\Wisky\\CloneProject\\Reso.Infrastructure.Monitor.UniLog.API\\DataService\\DataService.csproj",
-        "packagesPath": "C:\\Users\\LuanPCGaming\\.nuget\\packages\\",
-        "outputPath": "D:\\Wisky\\CloneProject\\Reso.Infrastructure.Monitor.UniLog.API\\DataService\\obj\\",
+        "projectPath": "E:\\WISKY\\SourceTree\\TrainingAPI\\DataService\\DataService.csproj",
+        "packagesPath": "C:\\Users\\vieta\\.nuget\\packages\\",
+        "outputPath": "E:\\WISKY\\SourceTree\\TrainingAPI\\DataService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\LuanPCGaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vieta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
